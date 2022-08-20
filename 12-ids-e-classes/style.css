@@ -1,7 +1,5 @@
-#Descrição-pc {
-    background-color: orange;
-}
-
-#Descrição-pc {
-    background-color: orange;
+.promocao {
+    border: solid 5px red;
+    background-color: rgb(246, 138, 138);
+    color: aliceblue;
 }
